@@ -17,4 +17,4 @@ Open a browser window and navigate to the Download page for Windows at python.or
 Underneath the heading at the top that says Python Releases for Windows, click on the link for the Latest Python 3 Release - Python 3.x.x. (As of this writing, the latest is Python 3.6.5.)
 Scroll to the bottom and select either Windows x86-64 executable installer for 64-bit or Windows x86 executable installer for 32-bit. (See below.)
 Step 2 : Run the Installer
-Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file. A dialog should appear that looks something like this:
+Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file.
